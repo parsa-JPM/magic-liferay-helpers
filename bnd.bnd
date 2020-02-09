@@ -1,0 +1,7 @@
+Bundle-Name: dpco-library
+Bundle-SymbolicName: dpco.library
+Bundle-Version: 1.0.0
+Export-Package:\
+ dpco.library.constants,\
+ dpco.library.parsa.classes.*
+Import-Package: *;resolution:=optional
